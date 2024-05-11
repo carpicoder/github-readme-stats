@@ -462,6 +462,12 @@ export const themes = {
     icon_color: "ffffff",
     bg_color: "35,4158d0,c850c0,ffcc70",
   },
+  carpi_coder: {
+    title_color: "ff3c00",
+    text_color: "f2ebd9",
+    icon_color: "ff3c00",
+    bg_color: "1c1c1c",
+  },
 };
 
 export default themes;
